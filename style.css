@@ -52,3 +52,49 @@ input {
 .col-5 {
     margin-bottom: 5px;
 }
+
+footer {
+    margin-top: 3rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+footer img {
+    width: 30px;
+    height: auto;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer button {
+    width: 90px;
+    height: 55px;
+    padding: 10px;
+    background-color: #fff;
+    /* border-radius: 10%; */
+    border-style: none;
+    cursor: pointer;
+}
+
+footer button span {
+    font-weight: 500;
+    padding-left: 3px;
+}
+
+footer button:hover {
+    color: #ff8585;
+    border-radius: 15%;
+    width: 135px;
+    height: 55px;
+
+    transition: 1s;
+}
+
+footer button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
