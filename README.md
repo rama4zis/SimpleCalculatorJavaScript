@@ -1,6 +1,6 @@
 # Simple Calculator With JavaScript
 
-Just use it
+Just use it<br>
 No need to edit
 
 
